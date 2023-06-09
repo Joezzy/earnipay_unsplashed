@@ -1,7 +1,7 @@
 # earnipay
 A new Flutter assessment.
 
-#Unsplashed
+# Unsplashed
 #Part 1:To run the application
 -Clone the  rep on your local machine using the command below:
 git clone https://github.com/Joezzy/earnipay_unsplashed.git
@@ -14,13 +14,13 @@ Flutter run
 
 
 
-#Part 2:To run the unit test
+# Part 2:To run the unit test
 -Open your terminal and navigate to the root of the project
 - Run the command :
   flutter test test/repo/imageRepository_test.dart
 
 
-#Part 3:   Performance Optimization
+# Part 3:   Performance Optimization
 Data caching:
 This mechanism  limit how often you send a request to the API endpoints, this helps to minimize resources and also increases
 response time for users.
@@ -34,7 +34,7 @@ Refactoring widgets/code components
 -Remove all unused imports in the project
 
 
-#Others.
+# Others.
 State management library is GetX
 Http client uses its Dio
 Mocktail for Unit test 
